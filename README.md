@@ -1,0 +1,1 @@
+this repository contain some scripts what i do for my first lines of code
