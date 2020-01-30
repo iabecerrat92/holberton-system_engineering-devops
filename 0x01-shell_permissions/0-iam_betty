@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo usermod-1 betty 1000
+sudo usermod -1 betty 1000
