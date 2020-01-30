@@ -1,0 +1,1 @@
+This repository contain a group of bash files to practis shells permissions
