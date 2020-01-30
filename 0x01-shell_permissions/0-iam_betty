@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo usermod -1 betty -u
+-u betty
