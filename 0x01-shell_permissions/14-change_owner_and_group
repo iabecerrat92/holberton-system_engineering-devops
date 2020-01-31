@@ -1,2 +1,2 @@
-#!/bin/bach
-chow betty:holberton *
+#!/bin/bash
+chown betty:holberton *
