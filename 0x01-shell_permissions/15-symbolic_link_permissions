@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --dreference betty _hello
+--dreference betty _hello
