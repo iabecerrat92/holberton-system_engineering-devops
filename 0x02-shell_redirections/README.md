@@ -1,0 +1,1 @@
+this repository contain files that try a scripts with redirection, test prints and filters
