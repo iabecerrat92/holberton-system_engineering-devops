@@ -1,2 +1,2 @@
 #!/bin/bash
-find -type f *.gif posix-extended -print '%f\n'
+find -type f *.gif -print '%f\n' | cut -b 5- | sort
