@@ -1,0 +1,1 @@
+this repository contain a files with the ecercises of Shell, init files, variables and expansions at Holberton.
